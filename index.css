@@ -75,7 +75,19 @@ nav i {
   color: #eaeaea;
   font-weight: lighter;
 }
+.content-section {
+  padding-top: 7.5rem;
+  padding-bottom: 7.5rem;
+}
 
+.content-section-heading h2 {
+  font-size: 3rem;
+}
+
+.content-section-heading h3 {
+  font-size: 1rem;
+  text-transform: uppercase;
+}
 .content-body aside {
   display: flex;
   flex-direction: column;
