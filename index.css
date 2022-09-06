@@ -1,3 +1,8 @@
+/*
+Handcoded By Chee Yong Lee (https://github.com/joeleeofficial) & (https://github.com/leecheeyong)
+This code is available as open source under the terms of the GPL-3.0 (https://github.com/BotStudios/Website/blob/master/LICENSE)
+*/
+
 * {
   margin: 0;
   padding: 0;
@@ -169,6 +174,13 @@ nav i {
   font-size: 50px;
   font-weight: 700;
   margin-bottom: 20px;
+}
+
+.footer {
+  text-align: center;
+  font-size: 0.6em;
+  padding-bottom: 1em;
+  color: rgb(110, 110, 110);
 }
 
 @media (max-width: 730px) {
