@@ -180,6 +180,7 @@ nav i {
   text-align: center;
   font-size: 0.6em;
   padding-bottom: 1em;
+  scroll-snap-align: end;
   color: rgb(110, 110, 110);
 }
 
